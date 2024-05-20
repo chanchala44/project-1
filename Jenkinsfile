@@ -8,7 +8,7 @@ pipeline
         {
             steps 
             {
-              sh 'echo Hello world chanchu'
+              sh 'echo Hello world chanchu1'
               
             }
          }
